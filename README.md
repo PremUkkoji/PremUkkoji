@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @PremUkkoji
 - 👀 I’m interested in Full Stack Development and Competitive Programming
-- 🌱 I’m currently learning DSA
